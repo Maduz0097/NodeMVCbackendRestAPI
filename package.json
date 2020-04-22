@@ -14,7 +14,7 @@
     "Mongoose",
     "Notes"
   ],
-  "author": "callicoder",
+  "author": "Yamika Perera",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
